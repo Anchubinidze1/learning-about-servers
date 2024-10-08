@@ -7,5 +7,5 @@ public static void main()
     System.out.println("Please enter the number");
     Scanner scanner = new Scanner();
 
-    
+    //changes added
 }
